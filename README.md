@@ -41,6 +41,8 @@ node problems/Array/15_three_sum.js
 - `11_container_with_most_water.js`
 - `14_longest_common_prefix.js`
 - `15_three_sum.js`
+- `16_three_sum_closest.js`
+- `18_four_sum.js`
 
 ### HashMap
 
