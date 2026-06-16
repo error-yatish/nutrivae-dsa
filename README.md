@@ -43,6 +43,7 @@ node problems/Array/15_three_sum.js
 - `15_three_sum.js`
 - `16_three_sum_closest.js`
 - `18_four_sum.js`
+- `26_remove_duplicates_from_sorted_array.js`
 
 ### HashMap
 
