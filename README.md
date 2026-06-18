@@ -37,6 +37,7 @@ node problems/Array/15_three_sum.js
 ### Array
 
 - `1_two_sum.js`
+- `3_longest_substring_w_o_repeating_char.js`
 - `4_median_of_two_sorted_arrays.js`
 - `11_container_with_most_water.js`
 - `14_longest_common_prefix.js`
@@ -44,7 +45,7 @@ node problems/Array/15_three_sum.js
 - `16_three_sum_closest.js`
 - `18_four_sum.js`
 - `26_remove_duplicates_from_sorted_array.js`
-= `27_remove_element.js`
+- `27_remove_element.js`
 
 ### HashMap
 
