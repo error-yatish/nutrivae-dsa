@@ -39,6 +39,7 @@ node problems/Array/15_three_sum.js
 - `1_two_sum.js`
 - `3_longest_substring_w_o_repeating_char.js`
 - `4_median_of_two_sorted_arrays.js`
+- `5_longest_palindromic_substring.js`
 - `11_container_with_most_water.js`
 - `14_longest_common_prefix.js`
 - `15_three_sum.js`
